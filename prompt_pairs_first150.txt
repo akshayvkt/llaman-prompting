@@ -1,4 +1,3 @@
-
 {"simplePrompt":"Anime girl with pink hair and frilly dress holding magic wand","advancedPrompt":"Portrait of a magical anime girl with long pink hair, big sparkling eyes, frilly pink dress, holding a star wand, delicate makeup, soft studio lighting, highly detailed digital painting"}
 {"simplePrompt":"Roger Federer serving tennis ball in stadium","advancedPrompt":"Photorealistic image of Roger Federer serving on Wimbledon center court, intricate details on tennis clothes and equipment, camera angle from the side, cinematic lighting, 8K resolution"}  
 {"simplePrompt":"Astronaut floating in space near Saturn and Jupiter","advancedPrompt":"An astronaut floating in space near Saturn and Jupiter, intricate NASA spacesuit, oxygen tanks and gear, awe-inspiring perspective, astrophotography, National Geographic style"}
