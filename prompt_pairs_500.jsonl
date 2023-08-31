@@ -411,42 +411,16 @@
 {"prompt": "Baroque portrait of a retrofuturistic assassin", "completion": "a baroque portrait of a retrofuturistic assassin head and shoulders, surrounded by advanced architecture. portrait painting. highly detailed science fiction painting by norman rockwell, frank frazetta, and syd mead. rich colors, high contrast, gloomy atmosphere, dark background. trending on artstation"}
 {"prompt": "Surfing colorful waves digital painting", "completion": "surfing mulitcolor waves, art by chris dyer, stanley artgerm lau, wlop, rossdraws, james jean, andrei riabovitchev, marc simonetti, yoshitaka amano photorealistic,, vray, hdr, hyper detailed, dramatic lighting, octane render, weta digital, 3 d sculpture"}
 {"prompt": "Werewolf rockstar full body digital painting", "completion": "full body werewolf rockstar, leather jacket, electric guitar, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by simon bisley and greg rutkowski and alphonse mucha"}
-{
-  "prompt":  "Fantasy character with wings like fairy, very colorful and detailed", 
-   "completion":  "wonderdream faeries lady feather wing digital art painting fantasy bloom vibrant keane glen and apterus sabbas and guay rebecca illustration character design concept colorful joy atmospheric lighting butterfly"
-}
-{
-  "prompt":  "Girl dressed as cute cupcake character with ribbons and swirls",
-   "completion":  "a girl as ( fantasy personification of chocolate cupcake ), character design, cute hats, victorian inspired clothing, unreal engine, highly detailed, smooth, digital illustration by artgerm, tooth wu, studio ghibli, sharp focus, artstation. ribbons, fractal swirls. a fantasy bakery by studio ghibli, makoto shinkai, global illumination, sweets, blender, maya 8 k"  
-}
-{
-  "prompt":  "Crashed spaceship in ground, cinematic lighting",  
-   "completion":  "crashed ufo in to the ground, concept art, art station landscape, greg rutkowski, cinematic lighting hyper realistic painting, dark atmosphere"
-}
-{
-  "prompt":  "Portrait painting of Harrison Ford in bold shapes",
-   "completion":  "portrait of harrison ford, warlock, organic painting, matte painting, bold shapes, hard edges, aesthetic octane render, trending on artstation, by greg manchess, huang guangjian, gil elvgren, sachin teng, greg rutkowski, jesper ejsing, rhads, ilya kuvshinov, cushart krenz"
-}
-{
-  "prompt":  "Twin Peaks movie poster with Taylor Swift",
-   "completion":  "twin peaks movie poster art portrait of taylor swift as the local cheerleader being sacrificed to the moloch in a ritual in the grove, nostalgic, domestic, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, by godward, gustav moreau, saturno butto, boris vallejo, austin osman spare and david kassan" 
-}
-{
-  "prompt":  "Disney and Pixar characters Wreck It Ralph and Wall-E drawn in cartoon style",
-   "completion":  "2d character concept art composed of Dysney's Wreck It Ralph and Pixar's Wall-e, drawn in the style of classical Disney animation, cell shading, digital painting, Dave Rapoza"
-}
-{
-  "prompt":  "Middle Eastern merchant praying before alien child, UFO in background",
-   "completion":  "a hyperrealist watercolour character concept art portrait of a middle eastern merchant kneeling down in prayer in front of a short fat starchild alien on a misty night in the desert. a ufo is in the background. by rebecca guay, michael kaluta, charles vess and jean moebius giraud"
-}
-{
-  "prompt":  "Cute Pokemon characters playing cards in colorful style",
-   "completion":  "squid games guys playing with pokemon cards but kawaii, in the style of james jean jamie hewlett, artstation trending, 8 k, 3 d render, photorealistic, volumetric lighting caustics, pink"
-}
-{
-  "prompt":  "Cat on fire with hell background",
-   "completion":  "Infernal cat, fire, hell, art by greg rutkowski, trending on artstation."
-} {"prompt": "Close up portrait of Clint Eastwood with angry expression", "completion": "closeup portrait shot of clint eastwood as khorne, the blood god, lord of skulls, kharneth, battle, rage, highly detailed, digital painting, artstation, concept art, soft focus, depth of field, artgerm, tomasz alen kopera, peter mohrbacher, donato giancola, wlop, boris vallejo"}
+{"prompt":  "Fantasy character with wings like fairy, very colorful and detailed", "completion":  "wonderdream faeries lady feather wing digital art painting fantasy bloom vibrant keane glen and apterus sabbas and guay rebecca illustration character design concept colorful joy atmospheric lighting butterfly"}
+{"prompt":  "Girl dressed as cute cupcake character with ribbons and swirls", "completion":  "a girl as ( fantasy personification of chocolate cupcake ), character design, cute hats, victorian inspired clothing, unreal engine, highly detailed, smooth, digital illustration by artgerm, tooth wu, studio ghibli, sharp focus, artstation. ribbons, fractal swirls. a fantasy bakery by studio ghibli, makoto shinkai, global illumination, sweets, blender, maya 8 k"}
+{"prompt": "Crashed spaceship in ground, cinematic lighting", "completion": "crashed ufo in to the ground, concept art, art station landscape, greg rutkowski, cinematic lighting hyper realistic painting, dark atmosphere"}
+{"prompt":  "Portrait painting of Harrison Ford in bold shapes", "completion":  "portrait of harrison ford, warlock, organic painting, matte painting, bold shapes, hard edges, aesthetic octane render, trending on artstation, by greg manchess, huang guangjian, gil elvgren, sachin teng, greg rutkowski, jesper ejsing, rhads, ilya kuvshinov, cushart krenz"}
+{"prompt": "Twin Peaks movie poster with Taylor Swift", "completion": "twin peaks movie poster art portrait of taylor swift as the local cheerleader being sacrificed to the moloch in a ritual in the grove, nostalgic, domestic, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, by godward, gustav moreau, saturno butto, boris vallejo, austin osman spare and david kassan"}
+{"prompt": "Disney and Pixar characters Wreck It Ralph and Wall-E drawn in cartoon style", "completion":  "2d character concept art composed of Dysney's Wreck It Ralph and Pixar's Wall-e, drawn in the style of classical Disney animation, cell shading, digital painting, Dave Rapoza"}
+{"prompt":  "Middle Eastern merchant praying before alien child, UFO in background", "completion":  "a hyperrealist watercolour character concept art portrait of a middle eastern merchant kneeling down in prayer in front of a short fat starchild alien on a misty night in the desert. a ufo is in the background. by rebecca guay, michael kaluta, charles vess and jean moebius giraud"}
+{"prompt": "Cute Pokemon characters playing cards in colorful style", "completion": "squid games guys playing with pokemon cards but kawaii, in the style of james jean jamie hewlett, artstation trending, 8 k, 3 d render, photorealistic, volumetric lighting caustics, pink"}
+{"prompt": "Cat on fire with hell background", "completion": "Infernal cat, fire, hell, art by greg rutkowski, trending on artstation."}
+{"prompt": "Close up portrait of Clint Eastwood with angry expression", "completion": "closeup portrait shot of clint eastwood as khorne, the blood god, lord of skulls, kharneth, battle, rage, highly detailed, digital painting, artstation, concept art, soft focus, depth of field, artgerm, tomasz alen kopera, peter mohrbacher, donato giancola, wlop, boris vallejo"}
 {"prompt": "Painting of Putin controlling Lavrov like a puppet", "completion": "picture the putin runs lavrov as a puppet, painting by greg rutkowski"}
 {"prompt": "Medieval city landscape with mist, smoke, and water", "completion": "medieval city, ornate, beautiful, atmosphere, vibe, mist, smoke, chimney, rain, well, wet, pristine, puddles, waterfall, melting, dripping, snow, ducks, creek, lush, ice, bridge, cart, forest, flowers, concept art illustration, color page, 4 k, tone mapping, akihiko yoshida, james jean, andrei riabovitchev, marc simonetti, yoshitaka amano, digital illustration, greg rutowski, volumetric lighting, sunbeams, particles, trending on artstation"}
 {"prompt": "Dark gothic oil painting of an apple", "completion": "an oil painting of an apple painted by Esao Andrews. dark, gothic, moody, darkcore. painting trending on Artstation"}
